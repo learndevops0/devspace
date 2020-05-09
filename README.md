@@ -104,6 +104,7 @@ DevSpace is battle tested with many Kubernetes distributions including:
 - **self-managed Kubernetes clusters** created with Rancher
 
 > DevSpace also lets you switch seamlessly between clusters and namespaces. You can work with a local cluster as long as that is sufficient. If things get more advanced, you need cloud power like GPUs or you simply want to share a complex system such as Kafka with your team, simply tell DevSpace to use a remote cluster by switching your kube-context and continue working.
+Thanks a ton!
 
 <br>
 </details>
